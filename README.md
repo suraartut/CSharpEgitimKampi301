@@ -4,6 +4,7 @@ Bu projenin 17.bölümü (CSharpEgitimKampi301.EFProject), Entity Framework ve L
 
 ## 📚 Kullanılan Teknolojiler
 Entity Framework: Veritabanı işlemleri için kullanıldı.
+
 LINQ: Verilerin filtrelenmesi, analiz edilmesi ve işlenmesi için kullanıldı.
 
 ## ✅ Gerçekleştirilen İşlemler
