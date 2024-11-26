@@ -7,15 +7,15 @@ Entity Framework: Veritabanı işlemleri için kullanıldı.
 LINQ: Verilerin filtrelenmesi, analiz edilmesi ve işlenmesi için kullanıldı.
 
 ## ✅ Gerçekleştirilen İşlemler
-### 📊 Veri Sayımı
+#### 📊 Veri Sayımı
 Count() metodu ile tablo kayıtları sayıldı.
-### ➕ Toplama ve Ortalama Hesaplama
+#### ➕ Toplama ve Ortalama Hesaplama
 Sum() ve Average() ile kapasite ve fiyat analizleri yapıldı.
-### 🔝 Maksimum ve Minimum Değer Belirleme
+#### 🔝 Maksimum ve Minimum Değer Belirleme
 Max() ve Min() ile kapasite ve fiyat sınırları hesaplandı.
-### 🎯 Veri Filtreleme ve Seçim
+#### 🎯 Veri Filtreleme ve Seçim
 Where() ve Select() ile belirli kriterlere göre veriler çekildi.
-### 🔗 Tablo İlişkileri
+#### 🔗 Tablo İlişkileri
 Lokasyon ve rehber bilgileri ilişkilendirilerek rehber bilgileri görüntülendi.
 
 ## 📸 Uygulama Ekran Görüntüsü
